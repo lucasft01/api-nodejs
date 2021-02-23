@@ -1,7 +1,7 @@
 # api-nodejs
 
 ## Requirements:
-- NodeJS >= 8.0.0
+- NodeJS >= 8.0.0 AND <=10.23.0
 - NPM >= 3.0.0
 
   > Can get nodejs and npm in https://nodejs.org/en/
