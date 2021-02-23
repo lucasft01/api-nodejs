@@ -1,0 +1,110 @@
+[
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/bakery.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/bakery.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/bakery.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/bakery.svg"
+    },
+    "name": "bakery"
+  },
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/fitFood.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/fitFood.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/fitFood.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/fitFood.svg"
+    },
+    "name": "fitFood"
+  },
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/iceCream.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/iceCream.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/iceCream.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/iceCream.svg"
+    },
+    "name": "iceCream"
+  },
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/seaFood.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/seaFood.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/seaFood.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/seaFood.svg"
+    },
+    "name": "seaFood"
+  },
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/candyShop.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/candyShop.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/candyShop.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/candyShop.svg"
+    },
+    "name": "candyShop"
+  },
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/pizza.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/pizza.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/pizza.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/pizza.svg"
+    },
+    "name": "pizza"
+  },
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/italianFood.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/italianFood.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/italianFood.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/italianFood.svg"
+    },
+    "name": "italianFood"
+  },
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/fastFood.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/fastFood.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/fastFood.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/fastFood.svg"
+    },
+    "name": "fastFood"
+  },
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/barbecue.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/barbecue.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Enabled/barbecue.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/FoodTypes/Disabled/barbecue.svg"
+    },
+    "name": "barbecue"
+  }
+]

@@ -1,0 +1,6 @@
+const URL_DYNAMIC_PWA = process.NODE_ENV !== 'production' ? 'http://localhost:3002' : process.env.URL_DYNAMIC_PWA
+const DOMAIN_OCARDAPIO_ONLINE = process.NODE_ENV !== 'production' ? 'http://localhost:3001' : process.env.DOMAIN_OCARDAPIO_ONLINE
+const USERNAME_API_DYNAMIC_PWA = process.env.USERNAME_API_DYNAMIC_PWA
+const PASSWORD_API_DYNAMIC_PWA = process.env.PASSWORD_API_DYNAMIC_PWA
+
+module.exports = { URL_DYNAMIC_PWA, DOMAIN_OCARDAPIO_ONLINE, USERNAME_API_DYNAMIC_PWA, PASSWORD_API_DYNAMIC_PWA }

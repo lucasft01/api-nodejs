@@ -1,0 +1,92 @@
+[
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Orgânica",
+    "itemType": "plate"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Light",
+    "itemType": "plate"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Diet",
+    "itemType": "plate"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Fruto-do-Mar",
+    "itemType": "plate"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Lactose",
+    "itemType": "plate"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Gluten",
+    "itemType": "plate"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Amendoim",
+    "itemType": "plate"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Vegana",
+    "itemType": "plate"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Vegetariana",
+    "itemType": "plate"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Vegana Drink",
+    "itemType": "drink"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Gluten Drink",
+    "itemType": "drink"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Lactose Drink",
+    "itemType": "drink"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Diet Drink",
+    "itemType": "drink"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Light Drink",
+    "itemType": "drink"
+  },
+  {
+    "image": "",
+    "enabled": false,
+    "name": "Orgânica Drink",
+    "itemType": "drink"
+  }
+]

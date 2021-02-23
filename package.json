@@ -1,0 +1,46 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "API to O Cardapio Online both admin and PWA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon --inspect=0.0.0.0:9230 src/index.js",
+    "seed": "node src/seeds/index.js"
+  },
+  "keywords": [
+    "API",
+    "Cardapio",
+    "PWA",
+    "Admin",
+    "Restaurant",
+    "Rest"
+  ],
+  "author": "lucasft",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.14.0",
+    "cors": "^2.8.5",
+    "cron": "^1.7.2",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "jimp": "^0.9.3",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.2.1",
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.6.12",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.3.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "engines": {
+    "node": ">=8.0.0 <=10.23.0",
+    "npm": ">=6.0.0"
+  }
+}

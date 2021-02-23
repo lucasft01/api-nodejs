@@ -1,0 +1,35 @@
+{
+  "address": {
+    "complement": "Loja 04",
+    "district": "São Mateus",
+    "ZIP": "36025-010",
+    "street": "Rua São Mateus",
+    "number": 41,
+    "city": "Juiz de Fora",
+    "state": "MG"
+  },
+  "style": {
+    "colors": {
+      "primaryColor": "#FFE100",
+      "secondColor": "#000000"
+    },
+    "colorsTransformed": {
+      "primaryColor": {
+        "color01": "#ffe733",
+        "color02": "#ccb400"
+      },
+      "secondColor": {
+        "color01": "#1a1a1a",
+        "color02": "#-19-19-19"
+      }
+    }
+  },
+  "lowestPrice": 0,
+  "biggestPrice": 0,
+  "logo": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1573163656/ocardapioonline/admin/5dc48f3f04b6841a6ce7d73d/5dc48f3f04b6841a6ce7d73e.jpg",
+  "slogan": "Cervejaria e Hamburgueria Artesanal",
+  "fantasyName": "São Bartolomeu",
+  "CNPJ": "44.757.813/0001-04",
+  "open": false,
+  "url": "saobarto"
+}

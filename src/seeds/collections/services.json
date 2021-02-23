@@ -1,0 +1,50 @@
+[
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/admin/Services/Enabled/24h.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/admin/Services/Disabled/24h.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/Services/Enabled/24h.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/Services/Disabled/24h.svg"
+    },
+    "name": "24h"
+  },
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/admin/Services/Enabled/wifi.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/admin/Services/Disabled/wifi.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/Services/Enabled/wifi.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/Services/Disabled/wifi.svg"
+    },
+    "name": "wifi"
+  },
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/admin/Services/Enabled/creditCard.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/admin/Services/Disabled/creditCard.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/Services/Enabled/creditCard.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/Services/Disabled/creditCard.svg"
+    },
+    "name": "creditCard"
+  },
+  {
+    "enabled": false,
+    "imagesAdmin": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/admin/Services/Enabled/accessible.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/admin/Services/Disabled/accessible.svg"
+    },
+    "imagesApp": {
+      "enabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/Services/Enabled/accessible.svg",
+      "disabled": "https://res.cloudinary.com/https-yunikon-com-br/image/upload/v1568128832/IMGS_DEFAULT/pwa/Services/Disabled/accessible.svg"
+    },
+    "name": "accessible"
+  }
+]
