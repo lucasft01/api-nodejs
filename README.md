@@ -10,6 +10,9 @@
   > Download in https://docs.docker.com/get-docker/
 - Docker-Compose
   > Download in https://docs.docker.com/compose/install/
+
+- .env with sensitive information
+  >Send message to lucasft.pwa@gmail.com to more informations
   
 ## Usage inner Docker
 1. Install the package 
